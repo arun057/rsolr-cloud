@@ -1,3 +1,3 @@
-require 'cloud/error'
+require 'rsolr/cloud/error'
 require 'cloud/connection'
-require 'cloud/version'
+require 'rsolr/cloud/version'
